@@ -7,7 +7,7 @@
 
 A **ninja-level Python screen recorder** that captures your desktop like a shinobi capturing a target 👀. Perfect for tutorials, gameplay, or recording anything on your screen. Beginner-friendly project to learn **Python GUI, screen capture, and video processing**.
 
-![Naruto Banner]([[https://upload.wikimedia.org/wikipedia/en/9/94/Naruto_Uzumaki.png](https://share.google/images/EaVd8CjuGBfdUrtgo)](https://images.wallpapersden.com/image/download/naruto-pain-minimal_bGppbWyUmZqaraWkpJRnZ2ZtrWZnaWw.jpg))
+
 
 ---
 
